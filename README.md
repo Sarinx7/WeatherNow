@@ -27,7 +27,7 @@ A responsive weather application that automatically detects your location and pr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Sarinx7/Weather-App-Web/blob/main/LICENSE) file for details
 
 ## Acknowledgments
 
