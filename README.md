@@ -13,7 +13,7 @@ A responsive weather application that automatically detects your location and pr
 
 ## Demo
 
-[Live Demo](#)
+[Live Demo](https://sarinx7.github.io/WeatherNow/)
 
 ## Technologies Used
 
