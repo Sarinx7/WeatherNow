@@ -32,7 +32,7 @@ function getUserLocation() {
                 }
             });
         }, function(error) {
-            console.error("Error getting user location:", error);
+            console.error("Error getting user's location:", error);
             getWeatherByCity('London');
             getNews('London');
         });
