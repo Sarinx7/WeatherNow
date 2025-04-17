@@ -1,5 +1,5 @@
-const WEATHER_API_KEY = "0fa661cf7e0743f4a5be3471da5746de";
-const NEWS_API_KEY = "6c58d3a6f4f2ebe90126b87837cd729a";
+const WEATHER_API_KEY = "YOUR_API_KEY";
+const NEWS_API_KEY = "YOUR_API_KEY";
 
 const searchInput = document.getElementById('search-input');
 const searchButton = document.getElementById('search-button');
